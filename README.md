@@ -11,7 +11,7 @@ All Technologies I have used before (From most to least recent):
 - **Cloud**: AWS, GCP, Firebase
 - **Testing**: Jest, Mocha
 - **Mobile**: React Native, Flutter, Android Studio
-- **Blockhain**: Truffle, Ganache
+- **Blockchain**: Truffle, Ganache
 
 <!--
 - AWS: EC2, S3, DynamoDB, Lambda
