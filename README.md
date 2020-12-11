@@ -10,7 +10,7 @@ All Technologies I have used before (From most to least recent):
 - **ODM/ORM**: Mongoose, SQLAlchemy
 - **Cloud**: AWS, GCP, Firebase
 - **Testing**: Jest, Mocha
-- **Mobile**: React Native, Flutter, Android Studio
+- **Mobile**: React Native, Flutter
 - **Blockchain**: Truffle, Ganache
 
 <!--
