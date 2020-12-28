@@ -3,10 +3,10 @@
 All Technologies I have used before (From most to least recent):
 
 - **Languages**: Typescript, JavaScript, Python, Solidity
-- **Databases**: MongoDB, MySQL
+- **Databases**: Postgresql, MongoDB, MySQL
 - **Client Side**: React, Vue
-- **UI Frameworks**: MaterialUI, ElementUI, SemanticUI, Bootstrap
-- **Server Side**: Node.js, Flask, Express, REST APIs, GraphQL, Docker
+- **UI Frameworks**: Ant Design, MaterialUI, ElementUI, SemanticUI, Bootstrap
+- **Server Side**: Node.js, Flask, Express, REST APIs, GraphQL, Strapi, Docker
 - **ODM/ORM**: Mongoose, SQLAlchemy
 - **Cloud**: AWS, GCP, Firebase
 - **Testing**: Jest, Mocha
