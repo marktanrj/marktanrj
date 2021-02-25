@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-All Technologies I have used before (From most to least recent):
+All Technologies I have used (From most to least recent):
 
-- **Languages**: Typescript, JavaScript, Python, Java, Solidity
-- **Databases**: MongoDB, MySQL
-- **Client Side**: React, Vue
-- **UI Frameworks**: MaterialUI, ElementUI, SemanticUI, Bootstrap
-- **Server Side**: Node.js, Flask, Express, REST APIs, GraphQL, Docker
-- **ODM/ORM**: Mongoose
+- **Languages**: Typescript, JavaScript, Python, Solidity
+- **Databases**: Postgresql, MongoDB, MySQL
+- **Client Side**: React, Vue, Redux (Toolkit, Thunk, Saga)
+- **UI Frameworks/Libs**: Ant Design, Tailwindcss, MaterialUI, ElementUI, SemanticUI, Bootstrap
+- **Server Side**: Node.js, Flask, Express, REST APIs, GraphQL, Strapi, Docker
+- **ODM/ORM**: Typeorm, Mongoose, SQLAlchemy
 - **Cloud**: AWS, GCP, Firebase
 - **Testing**: Jest, Mocha
-- **Mobile**: React Native, Flutter, Android Studio
-- **Blockhain**: Truffle, Ganache
+- **Mobile**: React Native, Flutter
+- **Blockchain**: Truffle, Ganache
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marktanrj&layout=compact&langs_count=6)
 
