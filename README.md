@@ -13,6 +13,8 @@ All Technologies I have used before (From most to least recent):
 - **Mobile**: React Native, Flutter, Android Studio
 - **Blockhain**: Truffle, Ganache
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marktanrj&layout=compact&langs_count=6)
+
 <!--
 - AWS: EC2, S3, DynamoDB, Lambda
 - GCP: Cloud Functions, Cloud Run, App Engine, AI Platform
