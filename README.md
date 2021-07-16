@@ -13,7 +13,16 @@ All Technologies I have used (From most to least recent):
 - **Mobile**: React Native, Flutter
 - **Blockchain**: Truffle, Ganache
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marktanrj&layout=compact&langs_count=6)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=marktanrj&count_private=true&show_icons=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marktanrj&layout=compact&langs_count=6&theme=tokyonight&count_private=true" />
+    </td>
+  </tr>
+</table>
 
 <!--
 - AWS: EC2, S3, DynamoDB, Lambda
