@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-All Technologies I have used (From most to least recent):
-
-- **Languages**: Typescript, JavaScript, Python, Solidity
-- **Databases**: Postgresql, MongoDB, MySQL
-- **Client Side**: React, Vue, Redux (Toolkit, Thunk, Saga)
-- **UI Frameworks/Libs**: Ant Design, Tailwindcss, MaterialUI, ElementUI, SemanticUI, Bootstrap
-- **Server Side**: Node.js, Flask, Express, REST APIs, GraphQL, Strapi, Docker
-- **ODM/ORM**: Typeorm, Mongoose, SQLAlchemy
-- **Cloud**: AWS, GCP, Firebase
-- **Testing**: Jest, Mocha
-- **Mobile**: React Native, Flutter
-- **Blockchain**: Truffle, Ganache
-
 <table>
   <tr>
     <td>
@@ -25,10 +12,6 @@ All Technologies I have used (From most to least recent):
 </table>
 
 <!--
-- AWS: EC2, S3, DynamoDB, Lambda
-- GCP: Cloud Functions, Cloud Run, App Engine, AI Platform
-- Firebase: Authentication, Firestore, Storage, Functions
-
 **marktanrj/marktanrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
